@@ -1,8 +1,8 @@
 #ifndef BOARD_CONFIG_H
 #define BOARD_CONFIG_H
 
-#define VENDOR_NAME "Vintech"
-#define PRODUCT_NAME "V-Board M4"
+#define VENDOR_NAME "Vinson Tech"
+#define PRODUCT_NAME "V-Board M4 PoC"
 #define VOLUME_LABEL "VM4BOOT"
 #define INDEX_URL "http://vtionline.com"
 #define BOARD_ID "SAMD51J20A-VTI-v0"
